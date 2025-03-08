@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\bin\Debug\TEXTRPG.Inheritance.exe.config
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\bin\Debug\TEXTRPG.Inheritance.exe
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\bin\Debug\TEXTRPG.Inheritance.pdb
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\obj\Debug\TEXTRPG_Inheritance.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\obj\Debug\TEXTRPG_Inheritance.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\obj\Debug\TEXTRPG.Inheritance.exe
+C:\LikeLion\LikeLion\TEXTRPG\TEXTRPG.Inheritance\obj\Debug\TEXTRPG.Inheritance.pdb

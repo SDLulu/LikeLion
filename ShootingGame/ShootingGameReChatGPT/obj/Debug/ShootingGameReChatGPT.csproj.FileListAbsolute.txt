@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\bin\Debug\ShootingGameReChatGPT.exe.config
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\bin\Debug\ShootingGameReChatGPT.exe
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\bin\Debug\ShootingGameReChatGPT.pdb
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\obj\Debug\ShootingGameReChatGPT.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\obj\Debug\ShootingGameReChatGPT.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\obj\Debug\ShootingGameReChatGPT.exe
+C:\LikeLion\LikeLion\ShootingGame\ShootingGameReChatGPT\obj\Debug\ShootingGameReChatGPT.pdb

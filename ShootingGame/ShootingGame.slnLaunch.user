@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "ShootingGame\\ShootingGame.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ShootingGameRe\\ShootingGameRe.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
