@@ -1,0 +1,7 @@
+C:\BootCamp\study1\study1\bin\Debug\study1.exe.config
+C:\BootCamp\study1\study1\bin\Debug\study1.exe
+C:\BootCamp\study1\study1\bin\Debug\study1.pdb
+C:\BootCamp\study1\study1\obj\Debug\study1.csproj.AssemblyReference.cache
+C:\BootCamp\study1\study1\obj\Debug\study1.csproj.CoreCompileInputs.cache
+C:\BootCamp\study1\study1\obj\Debug\study1.exe
+C:\BootCamp\study1\study1\obj\Debug\study1.pdb
